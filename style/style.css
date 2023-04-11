@@ -307,7 +307,7 @@ header ul li:hover a
     {
         position: absolute;
         height: 50vh;
-        right: 0;
+        right: 23;
     }
     .secText h2 
     {
@@ -405,7 +405,7 @@ header ul li:hover a
     }
     #home .men
     {
-        height: 40vh;
+        height: 37vh;
     }
     #services .content,
     #portfolio .content,
